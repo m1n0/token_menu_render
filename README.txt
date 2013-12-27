@@ -9,9 +9,7 @@ To use these tokens, simply use tokens like this:
 [menu:MY-CUSTOM-MENU-MACHINE-NAME]
 
 To unlock the full potential of the module, use it together with Token Filter
-(https://drupal.org/project/token_filter).
-
-Feel free to post issues or suggestions to the issue queue at ASDASHDBASHDGJAHSGDASDKASKDDKASD
+module (https://drupal.org/project/token_filter).
 
 Created by m1n0 (https://drupal.org/user/552052) as a reaction to Drupal Answers
 question (http://drupal.stackexchange.com/questions/98249/render-menu-using-embed-token/98270#98270)
