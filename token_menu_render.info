@@ -1,0 +1,6 @@
+name = Token Menu Render
+description = Crreate automatic tokens for every menu in the system.
+
+dependencies[] = menu
+
+core = 7.x
