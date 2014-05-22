@@ -1,7 +1,7 @@
 Token Menu Render
 =================
 
-Crreate automatic tokens for every menu in the system.
+Create automatic tokens for every menu in the system.
 
 To use these tokens, simply use tokens like this:
 [menu:main-menu]
